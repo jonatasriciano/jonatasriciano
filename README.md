@@ -17,6 +17,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+
 | PHP | JavaScript | Python | Node.js | React | Laravel |
 | --- | --- | --- | --- | --- | --- |
 | ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![laravel](https://laravel.com/img/logomark.min.svg) |
@@ -32,6 +34,7 @@
 | Django | React Native | Vue.js | Postman | Apache Cordova | Linux |
 | --- | --- | --- | --- | --- | --- |
 | ![django](https://static.djangoproject.com/img/logo-django.42234b631760.svg) | ![reactnative](https://reactnative.dev/img/header_logo.svg) | ![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) | ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![cordova](https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg) | ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasriciano&show_icons=true&locale=en&layout=compact" alt="jonatasriciano" /></p>
 
