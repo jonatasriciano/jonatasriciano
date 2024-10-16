@@ -18,38 +18,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-| PHP | JavaScript | Python |
-| --- | --- | --- |
-| ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
-
-| Node.js | React | Laravel |
-| --- | --- | --- |
-| ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![laravel](https://laravel.com/img/logomark.min.svg) |
-
-| Docker | AWS | MongoDB |
-| --- | --- | --- |
-| ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) | ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) | ![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) |
-
-| MySQL | PostgreSQL | Oracle |
-| --- | --- | --- |
-| ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | ![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) | ![oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg) |
-
-| Git | Docker | Express |
-| --- | --- | --- |
-| ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) | ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) | ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) |
-
-| HTML5 | CSS3 | Bootstrap |
-| --- | --- | --- |
-| ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | ![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) |
-
-| Django | React Native | Vue.js |
-| --- | --- | --- |
-| ![django](https://cdn.worldvectorlogo.com/logos/django.svg) | ![reactnative](https://reactnative.dev/img/header_logo.svg) | ![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) |
-
-| Postman | Apache Cordova | Linux |
-| --- | --- | --- |
-| ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![cordova](https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg) | ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
-
+- ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP
+- ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js
+- ![laravel](https://laravel.com/img/logomark.min.svg) Laravel
+- ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasriciano&show_icons=true&locale=en&layout=compact" alt="jonatasriciano" /></p>
