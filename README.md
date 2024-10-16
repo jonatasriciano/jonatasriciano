@@ -31,7 +31,7 @@
 
 | Django | React Native | Vue.js | Postman | Apache Cordova | Linux |
 | --- | --- | --- | --- | --- | --- |
-| ![django](https://cdn.worldvectorlogo.com/logos/django.svg) | ![reactnative](https://reactnative.dev/img/header_logo.svg) | ![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) | ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![cordova](https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg) | ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
+| ![django](https://static.djangoproject.com/img/logo-django.42234b631760.svg) | ![reactnative](https://reactnative.dev/img/header_logo.svg) | ![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) | ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![cordova](https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg) | ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasriciano&show_icons=true&locale=en&layout=compact" alt="jonatasriciano" /></p>
 
