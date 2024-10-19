@@ -79,10 +79,6 @@ An interactive wine recommendation application leveraging AI technologies like C
 
 - **Technologies**: Django, PostgreSQL, Docker, React, Bootstrap
 
-## Education
-
-- **Equivalent Canadian Education**: Completed professional qualifications recognized in Canada.
-
 ## Contact
 
 - **Email**: [jonatasricianotj@gmail.com](mailto:jonatasricianotj@gmail.com)
