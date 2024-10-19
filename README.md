@@ -73,9 +73,7 @@ Highly skilled Backend Developer with extensive expertise in transitioning monol
 | --- | --- | --- | --- | --- | --- |
 | ![django](https://static.djangoproject.com/img/logo-django.42234b631760.svg) | ![reactnative](https://reactnative.dev/img/header_logo.svg) | ![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) | ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![cordova](https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg) | ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
 
-## I’m currently working on **I-Sommelier APP
-
-### I-Sommelier
+## I’m currently working on I-Sommelier APP
 
 An interactive wine recommendation application leveraging AI technologies like ChatGPT and Gemini to help users choose wines based on their preferences and needs. Features include user authentication, a dynamic questionnaire, and personalized recommendations.
 
