@@ -2,7 +2,7 @@
 
 <p align="left">
   <b>Senior Software Engineer · AI Engineering · Integrations</b><br/>
-  Calgary, Alberta, Canada · Lead developer at <a href="https://fusionmediayyc.com/">Fusion Media YYC</a>
+  Calgary, Alberta, Canada · Software Developer at <a href="https://fusionmediayyc.com/">Fusion Media YYC</a>
 </p>
 
 <p align="left">
@@ -101,7 +101,7 @@ RAG · embeddings · hybrid search · re-ranking · LLM evaluation · voice agen
 
 ## 💼 Experience
 
-**Fusion Media YYC** · Lead Developer, AI & Platforms · *Calgary, Canada · 2025 – Present*
+**Fusion Media YYC** · Software Developer · *Calgary, Canada · Feb 2025 – Present*
 - Architected the multi-tenant CMS and the Next.js sites it powers; designed a monorepo and shared site kit to cut cross-site maintenance
 - Shipped RAG search, voice agents, AI commerce feeds and the AI visualizer described above
 - Built and maintain the CRM, accounting, payments, shipping and analytics integrations for clients
